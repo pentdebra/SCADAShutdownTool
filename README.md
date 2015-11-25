@@ -12,8 +12,11 @@ SCADAShutdownTool is an industrial control system automation and testing tool al
 SCADAShutdownTool allow enumeration of all registers types of a controller include coil outputs, digital inputs, analogue inputs, holding registers and extended registers.
 
 SCADAShutdownTool can run in different modes include:
+
 Safe-mode: Read-only and list non-zero values.
-Real-mode: Rewrite only non-zero values 
+
+Real-mode: Rewrite only non-zero values.
+
 Aggressive-mode: Rewrite all controller registers.
 
 Controller registers can be rewrite with the default value or “shutdown value” that specified by the user.
