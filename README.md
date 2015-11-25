@@ -54,7 +54,7 @@ SCADAShutdownTool allows a malicious attacker to scan, fuzz and execute a remote
 
 Change log
 -
-November 23, 2015 - SCADAShutdownTool v1.0 Beta
+November 25, 2015 (carbonfiber51's day) - SCADAShutdownTool v1.0 Beta
 
 
 Screenshots
