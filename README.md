@@ -32,7 +32,7 @@ Download
 -
 SCADAShutdownTool v1.0 Beta
 
-http://0xicf.wordpress.com/tools/SCADAShutdownTool
+https://0xicf.wordpress.com/tools/scada-shutdown-tool
 
 https://github.com/0xICF/SCADAShutdownTool
 
@@ -84,6 +84,6 @@ GNU GPL v3
 
 References
 -
-http://0xicf.wordpress.com/tools/SCADAShutdownTool
+https://0xicf.wordpress.com/tools/scada-shutdown-tool/
 
 
