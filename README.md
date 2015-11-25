@@ -19,6 +19,7 @@ Real-mode: Rewrite only non-zero values.
 
 Aggressive-mode: Rewrite all controller registers.
 
+
 Controller registers can be rewrite with the default value or “shutdown value” that specified by the user.
 
 SCADAShutdownTool developed for research purposes only, it is strongly recommended that you do not use this tool for illegal purposes. 
